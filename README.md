@@ -22,7 +22,7 @@ That turns out to matter beyond individual developer clarity. More code is writt
 
 ## How It Works
 
-Ruuk is in the ML/F# tradition: statically typed, expression-oriented, immutable by default, with type inference and exhaustive pattern matching. If you've spent time with Elm, OCaml, or F#, you'll be productive quickly. On top of that foundation, Ruuk adds constructs that make enterprise domain modeling a first-class concern of the compiler.
+Ruuk is in the OCaml/F# tradition: statically typed, expression-oriented, immutable by default, with type inference and exhaustive pattern matching. If you've spent time with Elm, OCaml, or F#, you'll be productive quickly. On top of that foundation, Ruuk adds constructs that make enterprise domain modeling a first-class concern of the compiler.
 
 ### Operations with Exhaustive Outcomes
 
